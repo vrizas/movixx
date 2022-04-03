@@ -1,0 +1,34 @@
+:root {
+    --color-rating: #FFD700;
+    --color-grey: #6c757d;
+
+    --font-weight-rgl: 400;
+    --font-weight-md: 500;
+    --font-weight-smbold: 600;
+    --font-weight-bold: 700;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.tagline {
+    letter-spacing: 3px;
+}
+
+.filter-bar {
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px, rgba(0, 0, 0, 0.15) 0 -1.95px 2.6px;
+    height: fit-content;
+}
+
+.rated-movie {
+    display: none;
+}
+
+footer img {
+    width: 200px;
+}

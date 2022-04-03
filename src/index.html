@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOVIXX</title>
+</head>
+<body class="bg-light">
+    <header class="container-fluid py-4 px-5 bg-dark">
+        <div class="row align-items-center">
+            <div class="logo col-lg-3 col-md-5 col-sm-12">
+                <img alt="Logo MOVIXX">
+                <p class="tagline text-light mb-0 mt-1">Nilai film kesukaanmu.</p>
+            </div>
+            <nav class="nav-lg col-md-7">
+                <ul class="d-flex list-unstyled mb-0">
+                    <li><a class='text-decoration-none text-light' href='#search'>Cari Film</a></li>
+                    <li class="mx-5"><a class='text-decoration-none text-light' href='#rated'>Telah Dinilai</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="container-fluid my-4">
+        <article class="search-movie row">
+            <div class="filter-bar col-lg-3 col-md-12 py-4 px-5 mb-3">
+                <section class="filter">
+                    <h4>Filter</h4>
+                    <filter-list id="populer" value="Populer" checked="checked"></filter-list>
+                </section>
+                <section class="genre">
+                    <h5>Genre</h5>
+                    <filter-list id="action" value="Action"></filter-list>
+                    <filter-list id="comedy" value="Comedy"></filter-list>
+                    <filter-list id="sci-fi" value="Sci-fi"></filter-list>
+                    <filter-list id="romance" value="Romance"></filter-list>
+                    <filter-list id="horror" value="Horror"></filter-list>
+                    <filter-list id="thriller" value="Thriller"></filter-list>
+                </section>
+                <section class="mt-4 rated-movie-filter">
+                    <h5>Film yang telah dinilai</h5>
+                    <rated-movie-list quantity="3"></rated-movie-list>
+                    <a href="#rated" class="open-rated-page">Lihat Selengkapnya</a>
+                </section>
+            </div>
+            <div class="search-content col-lg-9 col-md-12">
+                <search-bar></search-bar>
+                <movie-list></movie-list>
+            </div>
+        </article>
+        <article class="rated-movie row" style="min-height: calc(100vh - 314px);">
+            <div class="col-12 px-5">
+                <h4>Film Yang Telah Dinilai</h4>
+            </div>
+            <rated-movie-list quantity="all"></rated-movie-list>
+        </article>
+    </main>
+    <footer class="bg-dark text-light text-center py-5">
+        <p>Website ini menggunakan <a href="https://www.themoviedb.org/" target="_blank"><img src="" alt="TMDB"></a></p>
+        &copy; 2021 MOVIXX
+    </footer>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.29055mm"
+   height="7.6199756mm"
+   viewBox="0 0 40.29055 7.6199756"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="V:\Data\projects\web\movixx\logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.9910214"
+     inkscape:cx="78.175477"
+     inkscape:cy="26.183773"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient25524">
+      <stop
+         style="stop-color:#3f617f;stop-opacity:1"
+         offset="0"
+         id="stop25520" />
+      <stop
+         style="stop-color:#497299;stop-opacity:1"
+         offset="1"
+         id="stop25522" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient25524"
+       id="linearGradient25526"
+       x1="82.058281"
+       y1="72.030235"
+       x2="81.819603"
+       y2="75.217896"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.4014288,-3.8109088)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-64.52109,-65.534398)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Raleway;-inkscape-font-specification:'Raleway, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient25526);fill-opacity:1;stroke-width:0.264583"
+       x="63.801426"
+       y="73.090874"
+       id="text8480"
+       inkscape:export-filename="V:\Data\projects\web\logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan8478"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:10.5833px;font-family:Raleway;-inkscape-font-specification:'Raleway, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient25526);fill-opacity:1;stroke-width:0.264583"
+         x="63.801426"
+         y="73.090874">MOVIXX</tspan></text>
+  </g>
+</svg>
